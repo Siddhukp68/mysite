@@ -1,0 +1,27 @@
+# Ignore everything in the WordPress root (core files, wp-config.php, etc.)
+/*
+
+# Keep this file
+!.gitignore
+
+# Track only wp-content
+!wp-content/
+wp-content/*
+
+# Themes: track only the theme you use
+!wp-content/themes/
+wp-content/themes/*
+!wp-content/themes/twentytwentyfive/
+
+# Plugins: track only the ones you list
+!wp-content/plugins/
+wp-content/plugins/*
+# !wp-content/plugins/your-plugin-name/
+
+# Never commit these
+wp-config.php
+.env
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
