@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.1.4" created="2026-11-03 09:46" -->
+	<!-- generator="WordPress/7.1.4" created="2026-11-03 10:04" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Test_site</title>
 	<link>http://localhost/projects/Wordpress_projects/wordpress-7.1.4/wordpress</link>
 	<description></description>
-	<pubDate>Tue, 03 Nov 2026 09:46:20 +0000</pubDate>
+	<pubDate>Tue, 03 Nov 2026 10:04:21 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/projects/Wordpress_projects/wordpress-7.1.4/wordpress</wp:base_site_url>
@@ -840,6 +840,304 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>http://localhost/projects/Wordpress_projects/wordpress-7.1.4/wordpress/home/</link>
+		<pubDate>Tue, 03 Nov 2026 10:04:09 +0000</pubDate>
+		<dc:creator><![CDATA[Siddharth]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/projects/Wordpress_projects/wordpress-7.1.4/wordpress/?page_id=22</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"patternName":"twentytwentyfive/hero-book","name":"Hero book","description":"A hero section for the book with a description and pre-order link.","categories":["banner"]},"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0"><!-- wp:columns {"align":"full","style":{"spacing":{"blockGap":{"left":"0"}}}} -->
+<div class="wp-block-columns alignfull"><!-- wp:column {"width":"55%"} -->
+<div class="wp-block-column" style="flex-basis:55%"><!-- wp:cover {"url":"http://localhost/projects/Wordpress_projects/wordpress-7.1.4/wordpress/wp-content/themes/twentytwentyfive/assets/images/book-image-landing.webp","alt":"Image of the book","dimRatio":0,"customOverlayColor":"#6b6b6b","isDark":false,"style":{"dimensions":{"aspectRatio":"1"}},"layout":{"type":"default"}} -->
+<div class="wp-block-cover is-light"><img class="wp-block-cover__image-background" alt="Image of the book" src="http://localhost/projects/Wordpress_projects/wordpress-7.1.4/wordpress/wp-content/themes/twentytwentyfive/assets/images/book-image-landing.webp" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#6b6b6b"></span><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":"var:preset|spacing|20"} -->
+<div style="height:var(--wp--preset--spacing--20)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60","left":"var:preset|spacing|60","right":"var:preset|spacing|60"}}}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)"><!-- wp:heading {"className":"has-xx-large-font-size"} -->
+<h2 class="wp-block-heading has-xx-large-font-size">The Stories Book</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A fine collection of moments in time featuring photographs from Louis Fleckenstein, Paul Strand and Asahachi Kōno.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Available for pre-order now.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"patternName":"twentytwentyfive/cta-book-links","name":"Call to action with book links","description":"A call to action section with links to get the book in different websites.","categories":["call-to-action"]},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"},"blockGap":"var:preset|spacing|50","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"800px"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:heading {"align":"wide","style":{"typography":{"textAlign":"center"}},"fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-text-align-center alignwide has-x-large-font-size">Buy your copy of The Stories Book</h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"align":"wide","fontSize":"medium","layout":{"type":"flex","justifyContent":"center","flexWrap":"wrap"}} -->
+<div class="wp-block-buttons alignwide has-custom-font-size has-medium-font-size"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Amazon</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Audible</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Barnes &amp; Noble</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Apple Books</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Bookshop.org</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Spotify</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">BAM!</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Simon &amp; Schuster</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size">Outside Europe? View <a href="#" rel="nofollow">international editions</a>.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"patternName":"twentytwentyfive/banner-about-book","name":"Banner with book description","description":"Banner with book description and accompanying image for promotion.","categories":["banner"]},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|70"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center","width":""} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"className":"wp-block-heading","fontSize":"xx-large"} -->
+<h2 class="wp-block-heading has-xx-large-font-size">About the book</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">This exquisite compilation showcases a diverse array of photographs that capture the essence of different eras and cultures, reflecting the unique styles and perspectives of each artist. Fleckenstein’s evocative imagery, Strand’s groundbreaking modernist approach, and Kōno’s meticulous documentation of Japanese life come together in a harmonious blend that celebrates the art of photography. Each image in “The Stories Book” is accompanied by insightful commentary, providing historical context and revealing the stories behind the photographs. This collection is not only a visual feast but also a tribute to the power of photography to preserve and narrate the multifaceted experiences of humanity.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"","layout":{"type":"default"}} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://localhost/projects/Wordpress_projects/wordpress-7.1.4/wordpress/wp-content/themes/twentytwentyfive/assets/images/book-image-landing.webp" alt="Image of a book" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"patternName":"twentytwentyfive/cta-book-locations","name":"Call to action with locations","description":"A call to action section with links to get the book in the most popular locations.","categories":["call-to-action"]},"align":"full","className":"is-style-default","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull is-style-default" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|80"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"60%"} -->
+<div class="wp-block-column" style="flex-basis:60%"><!-- wp:group {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|30"}}},"layout":{"type":"flex","orientation":"vertical","flexWrap":"wrap"}} -->
+<div class="wp-block-group" style="padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:heading -->
+<h2 class="wp-block-heading">International editions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">The Stories Book will be available from these international retailers.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"40%"} -->
+<div class="wp-block-column" style="flex-basis:40%"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"","style":{"spacing":{"blockGap":"var:preset|spacing|50"}}} -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size" style="font-style:normal;font-weight:500">Australia</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size"><a href="#">Book Store</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size" style="font-style:normal;font-weight:500">Brazil</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size"><a href="#">Book Store</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size" style="font-style:normal;font-weight:500">Canada</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size"><a href="#">Book Store</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size" style="font-style:normal;font-weight:500">Japan</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size"><a href="#">Book Store</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"","style":{"spacing":{"blockGap":"var:preset|spacing|50"}}} -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size" style="font-style:normal;font-weight:500">New Zealand</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size"><a href="#">Book Store</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size" style="font-style:normal;font-weight:500">Switzerland</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size"><a href="#">Book Store</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size" style="font-style:normal;font-weight:500">United States</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size"><a href="#">Book Store</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size" style="font-style:normal;font-weight:500">United Kingdom</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size"><a href="#">Book Store</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"patternName":"twentytwentyfive/text-faqs","name":"FAQs","description":"A FAQs section with a FAQ heading and list of questions and answers.","categories":["text","about"]},"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|50"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:heading {"fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"style":{"border":{"top":{"color":"var:preset|color|accent-6","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="border-top-color:var(--wp--preset--color--accent-6);border-top-width:1px;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">What is The Stories Book about?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This exquisite compilation showcases a diverse array of photographs that capture the essence of different eras and cultures, reflecting the unique styles and perspectives of each artist.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"style":{"border":{"top":{"color":"var:preset|color|accent-6","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="border-top-color:var(--wp--preset--color--accent-6);border-top-width:1px;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">How much does The Stories Book cost?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This exquisite compilation showcases a diverse array of photographs that capture the essence of different eras and cultures, reflecting the unique styles and perspectives of each artist.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"style":{"border":{"top":{"color":"var:preset|color|accent-6","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="border-top-color:var(--wp--preset--color--accent-6);border-top-width:1px;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">When will The Stories Book be released?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This exquisite compilation showcases a diverse array of photographs that capture the essence of different eras and cultures, reflecting the unique styles and perspectives of each artist.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"style":{"border":{"top":{"color":"var:preset|color|accent-6","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="border-top-color:var(--wp--preset--color--accent-6);border-top-width:1px;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Are signed copies available?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This exquisite compilation showcases a diverse array of photographs that capture the essence of different eras and cultures, reflecting the unique styles and perspectives of each artist.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"tagName":"aside","metadata":{"patternName":"twentytwentyfive/cta-newsletter","name":"Newsletter sign-up","categories":["call-to-action"]},"align":"full","className":"is-style-section-3","style":{"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50","top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"},"margin":{"top":"0","bottom":"0"}},"dimensions":{"minHeight":""}},"layout":{"type":"constrained","contentSize":"800px"}} -->
+<aside class="wp-block-group alignfull is-style-section-3" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"style":{"dimensions":{"minHeight":"360px"},"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","orientation":"vertical","verticalAlignment":"center","justifyContent":"center"}} -->
+<div class="wp-block-group" style="min-height:360px;margin-top:0;margin-bottom:0"><!-- wp:heading {"style":{"typography":{"textAlign":"center"}},"fontSize":"xx-large"} -->
+<h2 class="wp-block-heading has-text-align-center has-xx-large-font-size">Sign up to get daily stories</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"is-style-text-subtitle","style":{"typography":{"textAlign":"center"}}} -->
+<p class="has-text-align-center is-style-text-subtitle">Get access to a curated collection of moments in time featuring photographs from historical relevance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"0px","style":{"layout":{"flexSize":"20px","selfStretch":"fixed"}}} -->
+<div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"typography":{"textAlign":"center"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button">Subscribe</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></aside>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>22</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-03 10:04:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-03 10:04:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-03 10:04:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-03 10:04:09]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
